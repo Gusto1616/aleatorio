@@ -12,6 +12,23 @@ t0=0; %s
 Travel_d=xf-xi; % distance in m
 Travel_t=t4-t0; % total time in s
 
+
+%%%
+5
+%
+%
+%%
+%
+%
+%
+%%
+%
+%
+%
+
+
+
+
 %Constantes para fazer a convers�o entre as unidades
 kmh2ms=(1000/3600);
 km2m=1000;
